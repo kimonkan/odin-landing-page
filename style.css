@@ -56,7 +56,14 @@ a{
 
 .about, .contact{
     margin-top: 0;
-    
+}
+
+.home-table{
+    table-layout: fixed;
+}
+
+.home-td{
+    width: 50%;
 }
 
 @media(max-width:1280px){
