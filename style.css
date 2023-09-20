@@ -48,6 +48,10 @@ a {
   font-size: 2rem;
 }
 
+.home{
+  background-color: antiquewhite;
+}
+
 .home,
 .projects,
 .quote,
@@ -63,13 +67,14 @@ a {
   margin-top: 0;
 }
 
-.home-table {
+table, tr, td {
+  width: 100%;
+  height: 100%;
+  border-collapse: collapse;
+  border:1px solid black;
   table-layout: fixed;
 }
 
-.home-td {
-  width: 50%;
-}
 
 .project-img {
   width: 100%;
