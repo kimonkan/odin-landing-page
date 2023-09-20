@@ -50,6 +50,7 @@ a {
 
 .home,
 .projects,
+.quote,
 .contact {
   height: 720px;
   margin-top: 70px;
@@ -57,6 +58,7 @@ a {
 }
 
 .projects,
+.quote,
 .contact {
   margin-top: 0;
 }
